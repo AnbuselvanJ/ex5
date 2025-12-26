@@ -132,8 +132,10 @@ def power(request):
     ```
 
 ## SERVER SIDE PROCESSING:
+<img width="1335" height="755" alt="Screenshot 2025-12-27 002415" src="https://github.com/user-attachments/assets/8a61eae1-f7a5-42a5-9c2a-b4a40054893b" />
 
 ## HOMEPAGE:
+![im](https://github.com/user-attachments/assets/246da9c6-774b-4073-8c1c-c7f580d538ce)
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
