@@ -128,14 +128,15 @@ def power(request):
         except ValueError:
             context['P'] = "Invalid Input"
     return render(request, 'myapp/power.html', context)
-
-    ```
+```
 
 ## SERVER SIDE PROCESSING:
-<img width="1335" height="755" alt="Screenshot 2025-12-27 002415" src="https://github.com/user-attachments/assets/8a61eae1-f7a5-42a5-9c2a-b4a40054893b" />
+<img width="1335" height="755" alt="Screenshot 2025-12-27 002415" src="https://github.com/user-attachments/assets/64723564-4be1-4d76-9863-6b3d6a5eab52" />
+
 
 ## HOMEPAGE:
-![im](https://github.com/user-attachments/assets/246da9c6-774b-4073-8c1c-c7f580d538ce)
+![im](https://github.com/user-attachments/assets/4505cbff-2bb1-4a63-8199-befc502f6694)
+
 
 ## RESULT:
 The program for performing server side processing is completed successfully.
